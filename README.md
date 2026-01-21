@@ -74,10 +74,13 @@ Outside of the buffer, no additional caching is implemented. Since images are fe
 ## Recording
 
 ### Without buffer
-https://github.com/user-attachments/assets/fcc42ea9-ff9e-44f4-a40a-b2d37ebc308a
+
+https://github.com/user-attachments/assets/3a177290-fcda-42ce-be40-a7c0f742d64f
+
 
 ### With buffer
-https://github.com/user-attachments/assets/3a177290-fcda-42ce-be40-a7c0f742d64f
+
+https://github.com/user-attachments/assets/fcc42ea9-ff9e-44f4-a40a-b2d37ebc308a
 
 
 ## Ideal project stack
