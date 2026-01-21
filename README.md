@@ -4,6 +4,15 @@ Boreale is a Flutter application designed to fetch and display random images fro
 
 https://github.com/user-attachments/assets/e15e019c-fefa-41fe-a89c-7b3425391593
 
+## How to run
+
+```
+git clone git@github.com:GangemiLorenzo/Boreale.git
+cd Boreale
+flutter pub update
+flutter run
+```
+
 ## Project Structure & Architecture
 
 The app uses the BLoC pattern for state management. The main components are organized as follows:
